@@ -13,7 +13,7 @@ time:
      end: 2026-04-21T19:00:00-04:00
 ---
 
-The North Carolina Regional Group will hold an in-person social meeting on April 21st, 2026 at 5:00pm ET.
+The North Carolina Regional Group will hold an in-person social meeting at Namu on Tuesday, April 21st, 2026 from 5:00pm ET to 7:00pm ET.
 
 <!--more-->
 
